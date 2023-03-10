@@ -109,22 +109,22 @@ int main(){
         flag = printMenu();
         switch (flag){
             case 1:
-                printf("\nElegiste opcion 1\n");
+                printf("\n Suma 1\n");
                 suma (7,8);
                 break;
 
             case 2:
-                printf("\nElegiste opcion 2\n");
+                printf("\n Resta 2\n");
                 resta (7,5);
                 break;
 
             case 3:
-                printf("\nElegiste opcion 3\n");
+                printf("\n Division 3\n");
                 division(48,7);
                 break;
 
             case 4:
-                printf("\nElegiste opcion 4\n");
+                printf("\n Multiplicacion 4\n");
                 multiplicacion(23,40);
                 break;
                 
